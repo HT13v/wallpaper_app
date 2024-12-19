@@ -27,7 +27,7 @@ You can check reference videos on YouTube for detailed instructions: https://you
 After completing these steps, follow these steps to run the app:
 
 Open Android Studio
-Select project from version control (VCS) and paste the project URL: https://github.com/NoorMohammedAnik/car_workshop_app
+Select project from version control (VCS) and paste the project URL: https://github.com/HT13v/wallpaper_app
 Project will be imported into Android Studio
 Finally, run the app on an emulator or a physical device
 
