@@ -6,7 +6,7 @@ A mobile application for earching image on different platform using only one app
 
 Here is a quick look at the app's screenshots: 
 
-GitHub link for the Project :
+GitHub link for the Project :https://github.com/HT13v/wallpaper_app
 
 How to Run the App
 ![Mockup 4](https://github.com/user-attachments/assets/1af741ef-336e-4a01-bb09-72dcaeaa27b6)
