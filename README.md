@@ -11,7 +11,7 @@ GitHub link for the Project :https://github.com/HT13v/wallpaper_app
 
 To run the app, you'll need to set up Flutter and Dart on your machine.
 
-Steps:
+#Steps:
 
 Download Android Studio from the official website: https://developer.android.com/studio
 
@@ -30,7 +30,10 @@ Set up Flutter SDK in your system environment variables
 Specify the Flutter SDK path in your Android Studio settings
 
 
-You can check reference videos on YouTube for detailed instructions: https://youtu.be/mMeQhLGD-og?si=rXZQVFBjGOu12aM8
+
+#You can check reference videos on YouTube for detailed instructions: https://youtu.be/mMeQhLGD-og?si=rXZQVFBjGOu12aM8
+
+
 
 After completing these steps, follow these steps to run the app:
 
@@ -43,7 +46,7 @@ Project will be imported into Android Studio
 Finally, run the app on an emulator or a physical device
 
 
-Package used in this project
+#Package used in this project
 
 http - A composable, Future-based library for making HTTP requests.
 
